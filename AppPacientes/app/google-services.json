@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "191922517693",
+    "firebase_url": "https://apppacientes-c6f8b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "apppacientes-c6f8b",
+    "storage_bucket": "apppacientes-c6f8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191922517693:android:a6b1e6c8089f3e2b0d69d4",
+        "android_client_info": {
+          "package_name": "us.mastersalud.apppacientes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwOoAJCD1HMW6VgLtnnAnQUtvK9bQrbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

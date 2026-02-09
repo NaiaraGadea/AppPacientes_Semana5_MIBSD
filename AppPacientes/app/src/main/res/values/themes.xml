@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!--Otros temas con action bar:
+    Theme.AppCompat.Light
+    Theme.MaterialComponents.Light
+    Theme.MaterialComponents.Light.DarkActionBar
+    Theme.MaterialComponents.DayNight
+
+    Theme.Material3.DynamicColors.DayNight
+    -->
+    <style name="Base.Theme.AppPacientes" parent="Theme.Material3.DynamicColors.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AppPacientes" parent="Base.Theme.AppPacientes" />
+</resources>
